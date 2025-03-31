@@ -6,6 +6,8 @@ This module provides basic arithmetic operations including addition, subtraction
 
 Functions
 
+![Alt text](assets/calculator.jpg)
+
 1. Addition
 
 perform_operation(augend, addend)
