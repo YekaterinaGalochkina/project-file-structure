@@ -1,4 +1,5 @@
-import addition
+import pytest
+import main.addition as addition
 
 def test_addition():
     # Assert
